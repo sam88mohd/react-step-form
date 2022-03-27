@@ -8,4 +8,6 @@
 
 body {
   font-family: "IBM Plex Sans Arabic", sans-serif;
+  min-height: 100vh;
+  background-color: #f7f7f7;
 }
